@@ -21,7 +21,6 @@ gem 'datetimepicker-rails', github: 'zpaulovics/datetimepicker-rails', branch: '
 gem 'devise'
 gem 'haml-rails'
 gem 'erb2haml'
-gem "middleman"
 gem 'therubyracer'
 gem 'less-rails'
 gem 'execjs'
